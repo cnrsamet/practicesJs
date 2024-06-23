@@ -2,8 +2,8 @@
  * @param {string} s
  * @return {boolean}
  */
-//tolowercase  stringi bütün harflerini küçüğe çevir
-//replace string içerisinde bulunan non-alphanumeric(harf olmayan) kaldır. 
+//tolowercase  string bütün harflerini küçüğe çevir
+//replace string içerisinde bulunan non-alphanumeric kaldır. 
 
 let input = ("Ey Edip, Adana'da pide ye.");
 
